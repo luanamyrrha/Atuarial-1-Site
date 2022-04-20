@@ -1523,3 +1523,4 @@ $\gamma =$ Despesa de administração
 $\alpha =$ Despesa de aquisição
 
 $P' = P + \gamma + \frac{\alpha}{\ddot{a}_{x:\overline{s}|}}$
+
